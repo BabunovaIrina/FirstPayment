@@ -1,6 +1,5 @@
-public class Main {
+public class Payment {
     public static void main(String[] args) {
-
         final int apartmentPrice = 16500000;
         System.out.println("Цена квартиры - " + apartmentPrice);
 
